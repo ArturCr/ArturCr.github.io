@@ -37,7 +37,7 @@
     -->
     <ul class="nav navbar-dark bg-dark">
       <li class="nav-item">
-        <a class="nav-link active" href="#"><img src="https://cdn.discordapp.com/icons/761306835109150733/45c65b86fcfdb8c8deeaf68941cb7238.webp?size=256"width=80% height=80% ></div></a>
+        <a class="nav-link active" href="#"><img src="ArturCr.github.io/White-Dog-Names-DJ.jpg "width=80% height=80% ></div></a>
       </li>
       <li class="nav-item">
         <div class="headroom">
@@ -45,16 +45,6 @@
         </div>
       </li>
     </ul>
-
-    <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="row">
-          <div class="col">
-          <img src="White-Dog-Names-DJ.jpg" width=80% height=80% ></div>
-          <div class="col">
-            <H1> Panic.Music </H1>
-          </div>
-        </div>
-    </nav> -->
 
     <div class="container link"><a href="https://www.youtube.com/results?search_query=Scatman (ski-ba-bop-ba-dop-bop) Official Video HD -Scatman John)*">[Scatman (ski-ba-bop-ba-dop-bop) Official Video HD -Scatman John]</a></div>
     <div class="container link"><a href="https://www.youtube.com/results?search_query=OBJECTS THAT I HAVE SHOVED UP MY ARSE (A Bruno Powroznik Classic))*">[OBJECTS THAT I HAVE SHOVED UP MY ARSE (A Bruno Powroznik Classic)]</a></div>

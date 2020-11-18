@@ -22,8 +22,7 @@
 
   </head>
   <body>
-    <!-- <h1>Hello, world!</h1> -->
-
+  
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
@@ -37,7 +36,7 @@
     -->
     <ul class="nav navbar-dark bg-dark">
       <li class="nav-item">
-        <a class="nav-link active" href="#"><img src="ArturCr.github.io/White-Dog-Names-DJ.jpg "width=80% height=80% ></div></a>
+        <a class="nav-link active" href="#"><img src="https://raw.githubusercontent.com/ArturCr/ArturCr.github.io/main/White-Dog-Names-DJ.jpg" width=80% height=80% ></div></a>
       </li>
       <li class="nav-item">
         <div class="headroom">

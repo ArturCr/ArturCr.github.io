@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -50,7 +49,7 @@
     <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="row">
           <div class="col">
-          <img src="https://cdn.discordapp.com/icons/761306835109150733/45c65b86fcfdb8c8deeaf68941cb7238.webp?size=256"width=80% height=80% ></div>
+          <img src="White-Dog-Names-DJ.jpg" width=80% height=80% ></div>
           <div class="col">
             <H1> Panic.Music </H1>
           </div>

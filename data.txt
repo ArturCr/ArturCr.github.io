@@ -1,1 +1,1 @@
-encodeded message
+Test message #3

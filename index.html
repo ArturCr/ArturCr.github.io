@@ -1,4 +1,10 @@
 <!doctype html>
+
+<!-- To do:
+-report errors (allow users to added issues)
+-link to youtube and spotify playlist
+-buttons and cookies [look if they are worth in learn how to use] -->
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -41,9 +47,14 @@ async function getContent(){
 
     parsed.forEach(i=>{
         if (!(i==='')){
+
+            let parsed =  i.split(' ');
+            let v_id =  parsed[0];
+            let v_name = parsed.slice(1,parsed.lenght).join(" ");
+
             const anchor = document.createElement("a")
-            anchor.href = `https://www.youtube.com/watch?v=${i}`;
-            anchor.textContent = `[${i}]`;
+            anchor.href = `https://www.youtube.com/watch?v=${v_id}`;
+            anchor.textContent = `[${v_name}]`;
             divResult.appendChild(anchor)
             divResult.appendChild(document.createElement("br"))
             //divResult.appendChild(document.createElement("br"))
